@@ -33,9 +33,6 @@ PetFeederAccessory.prototype = {
 
   changeState: function(state, callback) {
     var self = this;
-
-    console.log(self.name);
-
     request
       .post(state ? this.onCommand : this.offCommand)
       .on('response', function(response) {
