@@ -26,6 +26,6 @@ Add this to your `~/.homebridge/config.json` as an accessory:
 
 Don't be a derp derp and rely on this to feed your kitties for you.  This is just an experiment, and a means to get the little shits to stop yelling at me two hours before mealtime.  If you are trusting this plugin with Jinxy or Fido's life, a super secret embedded module will call PETA and tell them you're a horrible person.  
 
-![Please don't use node to feed me...](https://raw.githubusercontent.com/arcreative/homebridge/master/sadcat.png)
+![Please don't use node to feed me...](https://raw.githubusercontent.com/arcreative/homebridge/master/sadcat.jpg)
 
 Now... Enjoy!
